@@ -1,0 +1,64 @@
+{
+  "item": {
+    "id": "com.h.rsck",
+    "restype": "quick_app",
+    "name": "人生重开",
+    "description": "一个人生重开模拟器的应用，拥有原版天赋以及300+的事件超多可能等你来体验",
+    "preview": [
+      "redmi_watch_home.png",
+      "xiaomi_band_10_home.png",
+      "xiaomi_band_pro_home.png"
+    ],
+    "icon": "logo.png",
+    "cover": "2026050122381170.jpg",
+    "author": [
+      {
+        "name": "henrrybyhao",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "icon": "shopping-cart",
+      "title": "购买赞助链接",
+      "url": "https://afdian.com/a/velabyh"
+    },
+    {
+      "icon": "link-simple",
+      "title": "激活网站（激活之前购买看完教程后买）",
+      "url": "https://an.001155.top/"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "1.3.0",
+      "file_name": "com.h.rsck.release.1.3.0.rpk"
+    },
+    "xmb10": {
+      "version": "1.3.0",
+      "file_name": "com.h.rsck.release.1.3.0.rpk"
+    },
+    "xmb10nfc": {
+      "version": "1.3.0",
+      "file_name": "com.h.rsck.release.1.3.0.rpk"
+    },
+    "xmrw6": {
+      "version": "1.3.0",
+      "file_name": "com.h.rsck.release.1.3.0.rpk"
+    },
+    "xmrw5xring": {
+      "version": "1.3.0",
+      "file_name": "com.h.rsck.release.1.3.0.rpk"
+    },
+    "xmrw5": {
+      "version": "1.3.0",
+      "file_name": "com.h.rsck.release.1.3.0.rpk"
+    },
+    "xmb9p": {
+      "version": "1.3.0",
+      "file_name": "com.h.rsck.release.1.3.0.rpk"
+    }
+  },
+  "ext": {}
+}
