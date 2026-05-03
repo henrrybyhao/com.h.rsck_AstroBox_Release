@@ -1,0 +1,51 @@
+{
+  "item": {
+    "id": "com.h.rsck",
+    "name": "人生重开",
+    "description": "一个人生重开模拟器的应用，拥有原版天赋以及300+的事件超多可能等你来体验",
+    "preview": [
+      "redmi_watch_home.png",
+      "xiaomi_band_10_home.png",
+      "xiaomi_band_pro_home.png"
+    ],
+    "icon": "logo.png",
+    "cover": "2026050122381170.jpg",
+    "source_url": "https://github.com/henrrybyhao/com.h.rsck_AstroBox_Release",
+    "author": [
+      {
+        "name": "henrrybyhao",
+        "author_url": "https://astrobooox-ng.waijade.cn/publish"
+      }
+    ]
+  },
+  "downloads": {
+    "n66": {
+      "version": "1.3.0",
+      "file_name": "com.h.rsck.release.1.3.0.rpk"
+    },
+    "o66": {
+      "version": "1.3.0",
+      "file_name": "com.h.rsck.release.1.3.0.rpk"
+    },
+    "o66nfc": {
+      "version": "1.3.0",
+      "file_name": "com.h.rsck.release.1.3.0.rpk"
+    },
+    "p65": {
+      "version": "1.3.0",
+      "file_name": "com.h.rsck.release.1.3.0.rpk"
+    },
+    "o65m": {
+      "version": "1.3.0",
+      "file_name": "com.h.rsck.release.1.3.0.rpk"
+    },
+    "o65": {
+      "version": "1.3.0",
+      "file_name": "com.h.rsck.release.1.3.0.rpk"
+    },
+    "n67": {
+      "version": "1.3.0",
+      "file_name": "com.h.rsck.release.1.3.0.rpk"
+    }
+  }
+}
